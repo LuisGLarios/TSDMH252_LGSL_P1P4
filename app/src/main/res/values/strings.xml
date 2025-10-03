@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TSDMH252_LGSL_P1P4</string>
+
+    //Pantalla 1
+    <string name="titulo1">Calculadora de Practica</string>
+    <string name="txtvalor1">Ingresa tu Primer Valor</string>
+    <string name="Txtvalor2">Ingresa tu Segundo Valor </string>
+    <string name="nnum1">Aqui el  primer valor </string>
+    <string name="nnum2">Aqui el segundo valor </string>
+    <string name="blsumar">Sumar </string>
+    <string name="blresta">Restar </string>
+    <string name="blmulti"> Multiplicar </string>
+    <string name="bldiv">Dividir </string>
+    <string name="blpot">Potencia cuadratica </string>
+    <string name="blpoN">Potencia a la N </string>
+    <string name="blraiz">Raiz Cadrada </string>
+
+    //Pantalla 2
+    <string name="titulo2">Aqui los Resultados</string>
+
+</resources>
